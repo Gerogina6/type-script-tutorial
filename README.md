@@ -1,2 +1,2 @@
 # type-script-tutorial
-deepen typescript
+In depth typescript
